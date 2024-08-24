@@ -4,7 +4,7 @@ This repository contains a collection of documentation created by me, Ranit Mani
 
 ## Available Documentation
 
-- **C Programming**: [C Documentation](https://docs.ranitmanik.live/c/)
+- **C**: [C Documentation](https://docs.ranitmanik.live/c/)
 - **Java**: [Java Documentation](https://docs.ranitmanik.live/java/)
 - **HTML**: [HTML Documentation](https://docs.ranitmanik.live/html/)
 - **CSS**: [CSS Documentation](https://docs.ranitmanik.live/css/)
