@@ -4,12 +4,12 @@ This repository contains a collection of documentation created by me, Ranit Mani
 
 ## Available Documentation
 
-- **C**: [C Documentation](https://docs.ranitmanik.live/c/)
-- **Java**: [Java Documentation](https://docs.ranitmanik.live/java/)
-- **HTML**: [HTML Documentation](https://docs.ranitmanik.live/html/)
-- **CSS**: [CSS Documentation](https://docs.ranitmanik.live/css/)
-- **JavaScript**: [JavaScript Documentation](https://docs.ranitmanik.live/javascript/)
-- **React**: [React Documentation](https://docs.ranitmanik.live/react/)
+- **C**: [C Documentation](https://ranit.gitbook.io/c/)
+- **Java**: [Java Documentation](https://ranit.gitbook.io/java/)
+- **HTML**: [HTML Documentation](https://ranit.gitbook.io/html/)
+- **CSS**: [CSS Documentation](https://ranit.gitbook.io/css/)
+- **JavaScript**: [JavaScript Documentation](https://ranit.gitbook.io/javascript/)
+- **React**: [React Documentation](https://ranit.gitbook.io/react/)
 
 ## Purpose
 
